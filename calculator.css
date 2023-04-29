@@ -1,0 +1,44 @@
+/* r
+stretch equals button down
+align display/buttons within body*/
+
+#body {
+   width: 30%;
+   background-color: blue;
+   margin:auto;
+   position:relative;
+   
+}
+
+#textbox {
+    height:100px;
+    background-color: lightgrey;
+    position: relative;
+}
+#display {
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size:35px;
+   
+}
+
+#equals {
+
+   
+
+}
+
+button {
+    height:100px;
+    width:100px;
+    position:relative;
+    left:40px;
+    
+    
+
+}
+.operatorButtons {
+    width:100%;
+    
+}
